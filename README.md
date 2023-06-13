@@ -3,7 +3,9 @@
 
 #### 프로젝트 페이지<a href="https://www.notion.so/memorizing/7186dcfc77794dd593dc292be31df131?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/111134273/221109890-c30a3515-dcd8-47d7-9d5c-e21d86af7343.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109898-48744fab-f69b-49ed-b817-03e12a7ab578.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109908-99342b0a-21ce-4e55-8614-b5c516941c9f.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109918-0ac8e8a4-08dd-4c6c-a432-2ad31158d696.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109927-f9031d1b-2c8d-42c2-8642-5cec2f54ddb0.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109937-046a163b-778f-4365-a5a7-006dc43f63ae.png" width="13%" height="13%"> <img src="https://user-images.githubusercontent.com/111134273/221109942-9c24a636-4129-4778-a9df-f67731f12ca0.png" width="13%" height="13%">
+</div>
 
 <br>
 
@@ -67,9 +69,13 @@
 >**규칙적으로 암기학습을 진행할 수 있도록 총 4단계의 학습루틴을 지원합니다.**  
 1차 학습 ➔ 1차 복습(20min) ➔ 2차 복습(1hr) ➔ 3차 복습(1day) 
 
+<div align="center">
+    
 |<img src="https://user-images.githubusercontent.com/107039500/217727221-68055c6a-a421-492e-ab0d-dfbf99fd44a1.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217727242-6c92ac9d-2397-4601-8142-e42a6895c9a3.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217727247-05dd98aa-d45b-4fce-b2dc-b4706aeeca9f.png"></img>|
 |:-:|:-:|:-:|
 |`나의 단어장`|`학습화면`|`복습알림`|
+
+</div>
 
 <br>
 
@@ -77,9 +83,13 @@
 >**Memorizing은 영단어 뿐만이 아닌, 사용자가 원하시는 모든 유형의 암기장을 생성하고, 학습합니다.**  
 시사, 상식, IT, 한국사, 수학공식 부터 자주 잊어버리기 쉬운 모든 것들을 자유롭게 암기할 수 있습니다.
 
+<div align="center">
+    
 |<img src="https://user-images.githubusercontent.com/107039500/217727233-1c8b3132-1db6-4211-85fd-299292176145.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217728556-741c396c-845a-41dd-8742-039087da6df0.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217728115-29ca0017-dbfe-4b02-8d2e-88a374edb494.png"></img>|
 |:-:|:-:|:-:|
 |`유형선택`|`시사상식`|`영단어 학습`|
+
+</div>
 
 <br>
 
@@ -87,9 +97,13 @@
 >**혼자만 알고있기 아까운 나만의 단어장을 마켓에 등록하고, 다른 사람들이 만든 단어장도 구매할 수 있습니다.**  
 학습을 완료한 내 단어장을 삭제하긴 아쉽지 않나요? 마켓에서 모든 사람들과 함께 주고받을 수 있습니다.
 
+<div align="center">
+    
 |<img src="https://user-images.githubusercontent.com/107039500/217727241-e310aec4-ed3b-4e84-9d74-12ba88fce932.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217727239-16a7dfdf-d605-4ec2-8102-605fdaf24f2e.png"></img>|<img src="https://user-images.githubusercontent.com/107039500/217727244-cfbf8a9c-c257-40a0-807e-4237b532b153.png"></img>|
 |:-:|:-:|:-:|
 |`마켓`|`암기장 구매`|`암기장 판매`|
+
+</div>
 
 <br>
 
